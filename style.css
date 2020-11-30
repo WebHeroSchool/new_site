@@ -7,11 +7,11 @@ body {
 .wramper {
   margin: auto;
   width: 80%;
-  border: dashed 1pxl red;
+  border: dashed 1px red;
 }
 .logo,.menu {
   display: inline-block;
-  border: dashed 1pxl red;
+  border: dashed 1px red;
 }
 .header {
   display: flex;
@@ -26,7 +26,7 @@ body {
 }
 .menu__item {
   padding: 0 13px;
-  border: dashed 1pxl red;
+  border: dashed 1px red;
 }
 .menu__item:last-child {
   padding-right: 0;
