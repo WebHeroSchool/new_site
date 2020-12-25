@@ -55,7 +55,7 @@ body {
   margin-right: 0;
 }
 .main {
-  padding: 0 63% 100px 0;
+  padding: 6% 63% 267px 0;
   background: top right no-repeat url(img/mainimg.svg);
 }
 .main__title {
@@ -66,8 +66,8 @@ body {
   background: #ECF3FF;
 }
 .main__subtitle {
-  margin: 0 0 41px 0;
-  font: 500 22px/25px roboto,arial, helvetica, sans-serif;
+  margin: 0 16% 41px 0;
+  font: 500 22px/26px roboto,arial, helvetica, sans-serif;
 }
 .main__botton {
   display: inline-block;
