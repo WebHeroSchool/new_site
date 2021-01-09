@@ -108,17 +108,16 @@ body {
     margin-bottom: 0
   }
   .logo {
-    padding: 0 0 16px 44px;
-    background-color:rgba(0,0,0,0);
+    padding: 0 0 46px 44px;
+  }
+  .logo__text {
+    display: none;
   }
   .logo__circle {
     top: 46%;
   }
   .logo__circle_color_blue {
     top: 55%;
-  }
-  #app.creation {
-    opacity: 0;
   }
   .menu {
     display: none;
